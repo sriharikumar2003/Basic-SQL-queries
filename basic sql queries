@@ -1,0 +1,40 @@
+
+Select Data
+
+Select All Columns from a Table
+Select Specific Columns from a Table
+Select with a WHERE Clause
+Select with Sorting
+Select with a LIMIT
+Insert Data
+
+Insert into a Table
+Insert Multiple Rows
+Update Data
+
+Update Specific Rows
+Delete Data
+
+Delete Specific Rows
+Joins
+
+Inner Join
+Left Join
+Right Join
+Full Join
+Aggregate Functions
+
+COUNT
+SUM
+AVG
+MIN
+MAX
+Grouping Data
+
+GROUP BY
+HAVING
+Subqueries
+
+Subquery in SELECT
+Subquery in WHERE
+Subquery in FROM
